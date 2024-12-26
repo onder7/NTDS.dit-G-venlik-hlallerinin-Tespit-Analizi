@@ -1,1 +1,4 @@
+NTDS.dit Analyzer
+Copyright (c) 2024 Önder Aköz
 
+Bu yazılım MIT lisansı altında dağıtılmaktadır.
