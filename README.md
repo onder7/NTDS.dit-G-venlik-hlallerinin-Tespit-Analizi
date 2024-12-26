@@ -1,5 +1,6 @@
 # NTDS.dit-G-venlik-hlallerinin-Tespit-Analizi
 Kullanıcı Arayüzü:
+![image](https://github.com/user-attachments/assets/289c7161-1df1-42c0-8797-28be82fdb7ba)
 
 Başlangıç ve bitiş tarihi seçimi
 Analiz başlatma, rapor oluşturma ve temizleme butonları
